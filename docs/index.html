@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoL 数据分析 - 交互式仪表盘</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h2>LoL 数据分析 - 交互式仪表盘</h2>
+
+    <label for="xVar">X 轴变量:</label>
+    <select id="xVar"></select>
+
+    <label for="yVar">Y 轴变量:</label>
+    <select id="yVar"></select>
+
+    <canvas id="chart"></canvas>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

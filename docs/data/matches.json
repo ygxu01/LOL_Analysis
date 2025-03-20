@@ -1,0 +1,29 @@
+[
+    {
+        "Team":"T1",
+        "BO5_Matches":10,
+        "Win":7,
+        "Loss":3,
+        "Total_Games":50,
+        "WinRate":0.7,
+        "WinRate_Percent":70.0
+    },
+    {
+        "Team":"G2",
+        "BO5_Matches":8,
+        "Win":5,
+        "Loss":3,
+        "Total_Games":40,
+        "WinRate":0.625,
+        "WinRate_Percent":62.5
+    },
+    {
+        "Team":"JDG",
+        "BO5_Matches":12,
+        "Win":9,
+        "Loss":3,
+        "Total_Games":60,
+        "WinRate":0.75,
+        "WinRate_Percent":75.0
+    }
+]
