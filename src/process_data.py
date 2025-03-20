@@ -5,13 +5,13 @@ import os
 # 读取 CSV
 df = pd.read_csv("src/matches.csv")
 
-# 计算新变量（比如胜率 * 100）
+# 计算新变量
 df["WinRate_Percent"] = df["WinRate"] * 100
 
 # 确保 docs/data 目录存在
 os.makedirs("docs/data", exist_ok=True)
 
-# 保存 JSON 到 docs/data/
+# 保存 JSON 到 GitHub Pages
 json_path = "docs/data/matches.json"
 df.to_json(json_path, orient="records", indent=4)
 
