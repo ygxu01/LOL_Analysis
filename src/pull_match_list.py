@@ -93,7 +93,8 @@ def scrape_all_matches(player_id_df, start_season = 10, current_season = 15):
 def load_match_list():
     path = DATA_DIR / "all_players_matchlist_S10-S15.parquet"
     df = pd.read_parquet(path)
-
+    df["Date"] = pd.to_datetime(df["Date"], errors='coerce')  # Ensure Date is in datetime format
+    df["duration_minutes"] = df["Duration"].str.split(":").apply(lambda x: int(x[0]) + int(x[1]) / 60)
     return df
 
 if __name__ == "__main__":
