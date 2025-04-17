@@ -67,7 +67,7 @@ MANUAL_DATA_DIR = config("MANUAL_DATA_DIR")
 OUTPUT_DIR = config("OUTPUT_DIR")
 OS_TYPE = config("OS_TYPE")
 PUBLISH_DIR = config("PUBLISH_DIR")
-USER = config("USER")
+# USER = config("USER")
 
 ## Helpers for handling Jupyter Notebook tasks
 # fmt: off
@@ -116,35 +116,35 @@ def task_config():
     }
 
 
-def task_pull_fred():
-    """ """
-    file_dep = [
-        "./src/settings.py",
-        "./src/pull_fred.py",
-        "./src/pull_ofr_api_data.py",
-    ]
-    targets = [
-        DATA_DIR / "fred.parquet",
-        DATA_DIR / "ofr_public_repo_data.parquet",
-    ]
+# def task_pull_fred():
+#     """ """
+#     file_dep = [
+#         "./src/settings.py",
+#         "./src/pull_fred.py",
+#         "./src/pull_ofr_api_data.py",
+#     ]
+#     targets = [
+#         DATA_DIR / "fred.parquet",
+#         DATA_DIR / "ofr_public_repo_data.parquet",
+#     ]
 
-    return {
-        "actions": [
-            "ipython ./src/settings.py",
-            "ipython ./src/pull_fred.py",
-            "ipython ./src/pull_ofr_api_data.py",
-        ],
-        "targets": targets,
-        "file_dep": file_dep,
-        "clean": [],  # Don't clean these files by default. The ideas
-        # is that a data pull might be expensive, so we don't want to
-        # redo it unless we really mean it. So, when you run
-        # doit clean, all other tasks will have their targets
-        # cleaned and will thus be rerun the next time you call doit.
-        # But this one wont.
-        # Use doit forget --all to redo all tasks. Use doit clean
-        # to clean and forget the cheaper tasks.
-    }
+#     return {
+#         "actions": [
+#             "ipython ./src/settings.py",
+#             "ipython ./src/pull_fred.py",
+#             "ipython ./src/pull_ofr_api_data.py",
+#         ],
+#         "targets": targets,
+#         "file_dep": file_dep,
+#         "clean": [],  # Don't clean these files by default. The ideas
+#         # is that a data pull might be expensive, so we don't want to
+#         # redo it unless we really mean it. So, when you run
+#         # doit clean, all other tasks will have their targets
+#         # cleaned and will thus be rerun the next time you call doit.
+#         # But this one wont.
+#         # Use doit forget --all to redo all tasks. Use doit clean
+#         # to clean and forget the cheaper tasks.
+#     }
 
 
 ##############################$
@@ -174,97 +174,97 @@ def task_pull_fred():
 #             "ipython ./src/pull_fed_yield_curve.py",
 #         ],
 #         "targets": targets,
+# #         "file_dep": file_dep,
+# #         "clean": [],  # Don't clean these files by default.
+# #     }
+
+
+# def task_summary_stats():
+#     """ """
+#     file_dep = ["./src/example_table.py"]
+#     file_output = [
+#         "example_table.tex",
+#         "pandas_to_latex_simple_table1.tex",
+#     ]
+#     targets = [OUTPUT_DIR / file for file in file_output]
+
+#     return {
+#         "actions": [
+#             "ipython ./src/example_table.py",
+#             "ipython ./src/pandas_to_latex_demo.py",
+#         ],
+#         "targets": targets,
 #         "file_dep": file_dep,
-#         "clean": [],  # Don't clean these files by default.
+#         "clean": True,
 #     }
 
 
-def task_summary_stats():
-    """ """
-    file_dep = ["./src/example_table.py"]
-    file_output = [
-        "example_table.tex",
-        "pandas_to_latex_simple_table1.tex",
-    ]
-    targets = [OUTPUT_DIR / file for file in file_output]
+# def task_example_plot():
+#     """Example plots"""
+#     file_dep = [Path("./src") / file for file in ["example_plot.py", "pull_fred.py"]]
+#     file_output = ["example_plot.png"]
+#     targets = [OUTPUT_DIR / file for file in file_output]
 
-    return {
-        "actions": [
-            "ipython ./src/example_table.py",
-            "ipython ./src/pandas_to_latex_demo.py",
-        ],
-        "targets": targets,
-        "file_dep": file_dep,
-        "clean": True,
-    }
+#     return {
+#         "actions": [
+#             # "date 1>&2",
+#             # "time ipython ./src/example_plot.py",
+#             "ipython ./src/example_plot.py",
+#         ],
+#         "targets": targets,
+#         "file_dep": file_dep,
+#         "clean": True,
+#     }
 
 
-def task_example_plot():
-    """Example plots"""
-    file_dep = [Path("./src") / file for file in ["example_plot.py", "pull_fred.py"]]
-    file_output = ["example_plot.png"]
-    targets = [OUTPUT_DIR / file for file in file_output]
+# def task_chart_repo_rates():
+#     """Example charts for Chart Book"""
+#     file_dep = [
+#         "./src/pull_fred.py",
+#         "./src/chart_relative_repo_rates.py",
+#     ]
+#     targets = [
+#         DATA_DIR / "repo_public.parquet",
+#         DATA_DIR / "repo_public.xlsx",
+#         DATA_DIR / "repo_public_relative_fed.parquet",
+#         DATA_DIR / "repo_public_relative_fed.xlsx",
+#         OUTPUT_DIR / "repo_rates.html",
+#         OUTPUT_DIR / "repo_rates_normalized.html",
+#         OUTPUT_DIR / "repo_rates_normalized_w_balance_sheet.html",
+#     ]
 
-    return {
-        "actions": [
-            # "date 1>&2",
-            # "time ipython ./src/example_plot.py",
-            "ipython ./src/example_plot.py",
-        ],
-        "targets": targets,
-        "file_dep": file_dep,
-        "clean": True,
-    }
-
-
-def task_chart_repo_rates():
-    """Example charts for Chart Book"""
-    file_dep = [
-        "./src/pull_fred.py",
-        "./src/chart_relative_repo_rates.py",
-    ]
-    targets = [
-        DATA_DIR / "repo_public.parquet",
-        DATA_DIR / "repo_public.xlsx",
-        DATA_DIR / "repo_public_relative_fed.parquet",
-        DATA_DIR / "repo_public_relative_fed.xlsx",
-        OUTPUT_DIR / "repo_rates.html",
-        OUTPUT_DIR / "repo_rates_normalized.html",
-        OUTPUT_DIR / "repo_rates_normalized_w_balance_sheet.html",
-    ]
-
-    return {
-        "actions": [
-            # "date 1>&2",
-            # "time ipython ./src/chart_relative_repo_rates.py",
-            "ipython ./src/chart_relative_repo_rates.py",
-        ],
-        "targets": targets,
-        "file_dep": file_dep,
-        "clean": True,
-    }
+#     return {
+#         "actions": [
+#             # "date 1>&2",
+#             # "time ipython ./src/chart_relative_repo_rates.py",
+#             "ipython ./src/chart_relative_repo_rates.py",
+#         ],
+#         "targets": targets,
+#         "file_dep": file_dep,
+#         "clean": True,
+#     }
 
 
 notebook_tasks = {
-    "01_example_notebook_interactive.ipynb": {
+    "visualization_tutorial.ipynb": {
         "file_dep": [],
         "targets": [],
     },
-    "02_example_with_dependencies.ipynb": {
-        "file_dep": ["./src/pull_fred.py"],
-        "targets": [Path(OUTPUT_DIR) / "GDP_graph.png"],
-    },
-    "03_public_repo_summary_charts.ipynb": {
-        "file_dep": [
-            "./src/pull_fred.py",
-            "./src/pull_ofr_api_data.py",
-            "./src/pull_public_repo_data.py",
-        ],
-        "targets": [
-            OUTPUT_DIR / "repo_rate_spikes_and_relative_reserves_levels.png",
-            OUTPUT_DIR / "rates_relative_to_midpoint.png",
-        ],
-    },
+    # "02_example_with_dependencies.ipynb": {
+    #     "file_dep": ["./src/pull_fred.py"],
+    #     "targets": [Path(OUTPUT_DIR) / "GDP_graph.png"],
+    # },
+    # "03_public_repo_summary_charts.ipynb": {
+    #     "file_dep": [
+    #         "./src/pull_fred.py",
+    #         "./src/pull_ofr_api_data.py",
+    #         "./src/pull_public_repo_data.py",
+    #     ],
+    #     "targets": [
+    #         OUTPUT_DIR / "repo_rate_spikes_and_relative_reserves_levels.png",
+    #         OUTPUT_DIR / "rates_relative_to_midpoint.png",
+    #     ],
+    # },
 }
 
 
@@ -330,47 +330,47 @@ def task_run_notebooks():
 # ###############################################################
 
 
-def task_compile_latex_docs():
-    """Compile the LaTeX documents to PDFs"""
-    file_dep = [
-        "./reports/report_example.tex",
-        "./reports/my_article_header.sty",
-        "./reports/slides_example.tex",
-        "./reports/my_beamer_header.sty",
-        "./reports/my_common_header.sty",
-        "./reports/report_simple_example.tex",
-        "./reports/slides_simple_example.tex",
-        "./src/example_plot.py",
-        "./src/example_table.py",
-    ]
-    targets = [
-        "./reports/report_example.pdf",
-        "./reports/slides_example.pdf",
-        "./reports/report_simple_example.pdf",
-        "./reports/slides_simple_example.pdf",
-    ]
+# def task_compile_latex_docs():
+#     """Compile the LaTeX documents to PDFs"""
+#     file_dep = [
+#         "./reports/report_example.tex",
+#         "./reports/my_article_header.sty",
+#         "./reports/slides_example.tex",
+#         "./reports/my_beamer_header.sty",
+#         "./reports/my_common_header.sty",
+#         "./reports/report_simple_example.tex",
+#         "./reports/slides_simple_example.tex",
+#         "./src/example_plot.py",
+#         "./src/example_table.py",
+#     ]
+#     targets = [
+#         "./reports/report_example.pdf",
+#         "./reports/slides_example.pdf",
+#         "./reports/report_simple_example.pdf",
+#         "./reports/slides_simple_example.pdf",
+#     ]
 
-    return {
-        "actions": [
-            # My custom LaTeX templates
-            "latexmk -xelatex -halt-on-error -cd ./reports/report_example.tex",  # Compile
-            "latexmk -xelatex -halt-on-error -c -cd ./reports/report_example.tex",  # Clean
-            "latexmk -xelatex -halt-on-error -cd ./reports/slides_example.tex",  # Compile
-            "latexmk -xelatex -halt-on-error -c -cd ./reports/slides_example.tex",  # Clean
-            # Simple templates based on small adjustments to Overleaf templates
-            "latexmk -xelatex -halt-on-error -cd ./reports/report_simple_example.tex",  # Compile
-            "latexmk -xelatex -halt-on-error -c -cd ./reports/report_simple_example.tex",  # Clean
-            "latexmk -xelatex -halt-on-error -cd ./reports/slides_simple_example.tex",  # Compile
-            "latexmk -xelatex -halt-on-error -c -cd ./reports/slides_simple_example.tex",  # Clean
-            #
-            # Example of compiling and cleaning in another directory. This often fails, so I don't use it
-            # f"latexmk -xelatex -halt-on-error -cd -output-directory=../_output/ ./reports/report_example.tex",  # Compile
-            # f"latexmk -xelatex -halt-on-error -c -cd -output-directory=../_output/ ./reports/report_example.tex",  # Clean
-        ],
-        "targets": targets,
-        "file_dep": file_dep,
-        "clean": True,
-    }
+#     return {
+#         "actions": [
+#             # My custom LaTeX templates
+#             "latexmk -xelatex -halt-on-error -cd ./reports/report_example.tex",  # Compile
+#             "latexmk -xelatex -halt-on-error -c -cd ./reports/report_example.tex",  # Clean
+#             "latexmk -xelatex -halt-on-error -cd ./reports/slides_example.tex",  # Compile
+#             "latexmk -xelatex -halt-on-error -c -cd ./reports/slides_example.tex",  # Clean
+#             # Simple templates based on small adjustments to Overleaf templates
+#             "latexmk -xelatex -halt-on-error -cd ./reports/report_simple_example.tex",  # Compile
+#             "latexmk -xelatex -halt-on-error -c -cd ./reports/report_simple_example.tex",  # Clean
+#             "latexmk -xelatex -halt-on-error -cd ./reports/slides_simple_example.tex",  # Compile
+#             "latexmk -xelatex -halt-on-error -c -cd ./reports/slides_simple_example.tex",  # Clean
+#             #
+#             # Example of compiling and cleaning in another directory. This often fails, so I don't use it
+#             # f"latexmk -xelatex -halt-on-error -cd -output-directory=../_output/ ./reports/report_example.tex",  # Compile
+#             # f"latexmk -xelatex -halt-on-error -c -cd -output-directory=../_output/ ./reports/report_example.tex",  # Clean
+#         ],
+#         "targets": targets,
+#         "file_dep": file_dep,
+#         "clean": True,
+#     }
 
 notebook_sphinx_pages = [
     "./docs/notebooks/EX_" + notebook.split(".")[0] + ".html"
@@ -378,33 +378,31 @@ notebook_sphinx_pages = [
 ]
 sphinx_targets = [
     "./docs/index.html",
-    "./docs/myst_markdown_demos.html",
-    "./docs/apidocs/index.html",
     *notebook_sphinx_pages,
 ]
 
-def task_compile_sphinx_docs():
-    """Compile Sphinx Docs"""
-    notebook_scripts = [
-        OUTPUT_DIR / ("_" + notebook.split(".")[0] + ".py")
-        for notebook in notebook_tasks.keys()
-    ]
-    file_dep = [
-        "./README.md",
-        "./pipeline.json",
-        *notebook_scripts,
-    ]
+# def task_compile_sphinx_docs():
+#     """Compile Sphinx Docs"""
+#     notebook_scripts = [
+#         OUTPUT_DIR / ("_" + notebook.split(".")[0] + ".py")
+#         for notebook in notebook_tasks.keys()
+#     ]
+#     file_dep = [
+#         "./README.md",
+#         "./pipeline.json",
+#         *notebook_scripts,
+#     ]
 
-    return {
-        "actions": [
-            "chartbook generate -f",
-        ],  # Use docs as build destination
-        # "actions": ["sphinx-build -M html ./docs/ ./docs/_build"], # Previous standard organization
-        "targets": sphinx_targets,
-        "file_dep": file_dep,
-        "task_dep": ["run_notebooks",],
-        "clean": True,
-    }
+#     return {
+#         "actions": [
+#             "chartbook generate -f",
+#         ],  # Use docs as build destination
+#         # "actions": ["sphinx-build -M html ./docs/ ./docs/_build"], # Previous standard organization
+#         "targets": sphinx_targets,
+#         "file_dep": file_dep,
+#         "task_dep": ["run_notebooks",],
+#         "clean": True,
+#     }
 
 
 ###############################################################

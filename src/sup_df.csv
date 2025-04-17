@@ -1,0 +1,485 @@
+,Champion,Result,Date,Game,player,Tournament,duration_minutes,K,D,A,match_result,match_type
+0,Maokai,Defeat,2024-10-26,WBG vs BLG,Crisp,Worlds Main Event 2024,27.75,0,5,6,Defeat,BO5
+1,Renata Glasc,Defeat,2024-10-26,WBG vs BLG,Crisp,Worlds Main Event 2024,31.616666666666667,1,3,9,Defeat,BO5
+2,Renata Glasc,Defeat,2024-10-26,WBG vs BLG,Crisp,Worlds Main Event 2024,39.28333333333333,0,3,8,Defeat,BO5
+3,Rakan,Victory,2024-10-17,LNG Esports vs WBG,Crisp,Worlds Main Event 2024,30.616666666666667,1,1,17,Victory,BO5
+4,Braum,Victory,2024-10-17,LNG Esports vs WBG,Crisp,Worlds Main Event 2024,37.75,1,3,15,Victory,BO5
+5,Renata Glasc,Defeat,2024-10-17,LNG Esports vs WBG,Crisp,Worlds Main Event 2024,43.416666666666664,1,4,11,Victory,BO5
+6,Rakan,Victory,2024-10-17,LNG Esports vs WBG,Crisp,Worlds Main Event 2024,31.533333333333335,0,2,10,Victory,BO5
+7,Braum,Victory,2024-10-13,Dplus KIA vs WBG,Crisp,Worlds Main Event 2024,35.083333333333336,0,2,16,Victory,BO3
+8,Alistar,Victory,2024-10-13,Dplus KIA vs WBG,Crisp,Worlds Main Event 2024,29.9,0,2,12,Victory,BO3
+9,Lux,Defeat,2024-10-13,Dplus KIA vs WBG,Crisp,Worlds Main Event 2024,43.06666666666667,1,5,15,Victory,BO3
+10,Rakan,Victory,2024-10-12,WBG vs Fnatic,Crisp,Worlds Main Event 2024,26.516666666666666,1,2,7,Victory,BO3
+11,Rakan,Victory,2024-10-12,WBG vs Fnatic,Crisp,Worlds Main Event 2024,29.466666666666665,0,3,18,Victory,BO3
+12,Leona,Defeat,2024-10-12,WBG vs Fnatic,Crisp,Worlds Main Event 2024,36.05,1,4,5,Victory,BO3
+13,Leona,Defeat,2024-10-06,WBG vs G2 Esports,Crisp,Worlds Main Event 2024,35.63333333333333,0,4,6,Defeat,BO1
+14,Renata Glasc,Victory,2024-10-04,WBG vs Team Liquid,Crisp,Worlds Main Event 2024,42.233333333333334,0,4,9,Victory,BO1
+15,Poppy,Defeat,2024-10-03,GEN vs WBG,Crisp,Worlds Main Event 2024,45.21666666666667,0,5,6,Defeat,BO1
+16,Rell,Victory,2024-09-02,WBG vs JD Gaming,Crisp,LPL Regional Finals 2024,26.75,0,3,13,Victory,BO5
+17,Rell,Defeat,2024-09-02,WBG vs JD Gaming,Crisp,LPL Regional Finals 2024,32.25,0,5,4,Victory,BO5
+18,Rell,Victory,2024-09-02,WBG vs JD Gaming,Crisp,LPL Regional Finals 2024,37.45,3,3,15,Victory,BO5
+19,Rell,Victory,2024-09-02,WBG vs JD Gaming,Crisp,LPL Regional Finals 2024,23.45,1,2,14,Victory,BO5
+20,Rell,Defeat,2024-09-02,WBG vs JD Gaming,Crisp,LPL Regional Finals 2024,37.68333333333333,1,6,8,Victory,BO5
+21,Alistar,Defeat,2024-08-31,WBG vs LNG Esports,Crisp,LPL Regional Finals 2024,34.666666666666664,0,8,2,Defeat,BO5
+22,Braum,Defeat,2024-08-31,WBG vs LNG Esports,Crisp,LPL Regional Finals 2024,28.55,0,6,4,Defeat,BO5
+23,Poppy,Defeat,2024-08-31,WBG vs LNG Esports,Crisp,LPL Regional Finals 2024,27.883333333333333,1,3,3,Defeat,BO5
+24,Alistar,Defeat,2024-08-30,BLG vs WBG,Crisp,LPL Summer Playoffs 2024,39.45,2,4,12,Defeat,BO5
+25,Leona,Defeat,2024-08-30,BLG vs WBG,Crisp,LPL Summer Playoffs 2024,25.083333333333332,0,8,2,Defeat,BO5
+26,Rell,Defeat,2024-08-30,BLG vs WBG,Crisp,LPL Summer Playoffs 2024,25.016666666666666,0,2,5,Defeat,BO5
+27,Alistar,Victory,2024-08-24,Top Esports vs WBG,Crisp,LPL Summer Playoffs 2024,34.583333333333336,0,2,11,Victory,BO5
+28,Leona,Defeat,2024-08-24,Top Esports vs WBG,Crisp,LPL Summer Playoffs 2024,31.15,2,1,1,Victory,BO5
+29,Leona,Victory,2024-08-24,Top Esports vs WBG,Crisp,LPL Summer Playoffs 2024,32.28333333333333,0,1,7,Victory,BO5
+30,Braum,Defeat,2024-08-24,Top Esports vs WBG,Crisp,LPL Summer Playoffs 2024,36.016666666666666,0,4,13,Victory,BO5
+31,Braum,Victory,2024-08-24,Top Esports vs WBG,Crisp,LPL Summer Playoffs 2024,29.233333333333334,1,2,12,Victory,BO5
+32,Braum,Victory,2024-08-22,WBG vs LNG Esports,Crisp,LPL Summer Playoffs 2024,32.65,0,2,10,Victory,BO5
+33,Leona,Victory,2024-08-22,WBG vs LNG Esports,Crisp,LPL Summer Playoffs 2024,39.11666666666667,0,7,12,Victory,BO5
+34,Rell,Defeat,2024-08-22,WBG vs LNG Esports,Crisp,LPL Summer Playoffs 2024,29.5,0,5,4,Victory,BO5
+35,Rell,Victory,2024-08-22,WBG vs LNG Esports,Crisp,LPL Summer Playoffs 2024,27.533333333333335,0,0,13,Victory,BO5
+36,Braum,Defeat,2024-08-22,WBG vs LNG Esports,Crisp,LPL Summer Playoffs 2024,31.783333333333335,1,5,5,Victory,BO5
+37,Alistar,Defeat,2024-08-17,BLG vs WBG,Crisp,LPL Summer Playoffs 2024,25.65,1,9,7,Defeat,BO5
+38,Braum,Defeat,2024-08-17,BLG vs WBG,Crisp,LPL Summer Playoffs 2024,29.816666666666666,0,4,4,Defeat,BO5
+39,Alistar,Defeat,2024-08-17,BLG vs WBG,Crisp,LPL Summer Playoffs 2024,34.88333333333333,0,5,3,Defeat,BO5
+40,Braum,Victory,2024-08-15,WBG vs NIP,Crisp,LPL Summer Playoffs 2024,24.333333333333332,1,0,15,Victory,BO5
+41,Alistar,Victory,2024-08-15,WBG vs NIP,Crisp,LPL Summer Playoffs 2024,32.15,0,3,9,Victory,BO5
+42,Rakan,Defeat,2024-08-15,WBG vs NIP,Crisp,LPL Summer Playoffs 2024,24.633333333333333,0,4,4,Victory,BO5
+43,Rell,Victory,2024-08-15,WBG vs NIP,Crisp,LPL Summer Playoffs 2024,31.266666666666666,1,1,15,Victory,BO5
+44,Rell,Victory,2024-07-28,WBG vs FPX,Crisp,LPL Summer Season 2024,39.53333333333333,1,5,12,Victory,BO3
+45,Alistar,Victory,2024-07-28,WBG vs FPX,Crisp,LPL Summer Season 2024,25.316666666666666,1,2,9,Victory,BO3
+46,Rakan,Victory,2024-07-25,WBG vs LGD Gaming,Crisp,LPL Summer Season 2024,27.666666666666668,0,2,16,Victory,BO3
+47,Leona,Victory,2024-07-25,WBG vs LGD Gaming,Crisp,LPL Summer Season 2024,28.133333333333333,2,1,13,Victory,BO3
+48,Rell,Defeat,2024-07-23,WBG vs BLG,Crisp,LPL Summer Season 2024,27.15,1,4,3,Defeat,BO3
+49,Ornn,Defeat,2024-07-23,WBG vs BLG,Crisp,LPL Summer Season 2024,24.05,0,5,3,Defeat,BO3
+50,Rell,Victory,2024-07-23,WBG vs BLG,Crisp,LPL Summer Season 2024,29.966666666666665,2,1,11,Defeat,BO3
+51,Alistar,Victory,2024-07-18,WBG vs AL,Crisp,LPL Summer Season 2024,37.516666666666666,0,4,11,Victory,BO3
+52,Rell,Victory,2024-07-18,WBG vs AL,Crisp,LPL Summer Season 2024,30.0,0,4,12,Victory,BO3
+53,Renata Glasc,Defeat,2024-07-17,WBG vs Top Esports,Crisp,LPL Summer Season 2024,23.283333333333335,0,4,4,Defeat,BO3
+54,Braum,Defeat,2024-07-17,WBG vs Top Esports,Crisp,LPL Summer Season 2024,35.85,0,7,10,Defeat,BO3
+55,Ornn,Victory,2024-07-13,WBG vs NIP,Crisp,LPL Summer Season 2024,32.28333333333333,2,2,10,Victory,BO3
+56,Ornn,Victory,2024-07-13,WBG vs NIP,Crisp,LPL Summer Season 2024,25.766666666666666,0,0,10,Victory,BO3
+57,Leona,Defeat,2024-07-10,LNG Esports vs WBG,Crisp,LPL Summer Season 2024,32.516666666666666,0,3,1,Defeat,BO3
+58,Leona,Victory,2024-07-10,LNG Esports vs WBG,Crisp,LPL Summer Season 2024,35.166666666666664,1,3,15,Defeat,BO3
+59,Rell,Defeat,2024-07-10,LNG Esports vs WBG,Crisp,LPL Summer Season 2024,35.6,0,4,4,Defeat,BO3
+60,Ornn,Victory,2024-07-06,JD Gaming vs WBG,Crisp,LPL Summer Season 2024,33.416666666666664,2,2,10,Victory,BO3
+61,Renata Glasc,Victory,2024-07-06,JD Gaming vs WBG,Crisp,LPL Summer Season 2024,43.55,2,3,17,Victory,BO3
+62,Rell,Victory,2024-06-29,IG vs WBG,Crisp,LPL Summer Placements 2024,27.716666666666665,1,2,17,Victory,BO3
+63,Leona,Victory,2024-06-29,IG vs WBG,Crisp,LPL Summer Placements 2024,26.083333333333332,1,3,10,Victory,BO3
+64,Rell,Defeat,2024-06-21,NIP vs WBG,Crisp,LPL Summer Placements 2024,31.333333333333332,0,10,5,Defeat,BO3
+65,Rakan,Defeat,2024-06-21,NIP vs WBG,Crisp,LPL Summer Placements 2024,29.733333333333334,0,2,6,Defeat,BO3
+66,Leona,Defeat,2024-06-17,WBG vs Ultra Prime,Crisp,LPL Summer Placements 2024,32.016666666666666,2,7,4,Defeat,BO3
+67,Nautilus,Defeat,2024-06-17,WBG vs Ultra Prime,Crisp,LPL Summer Placements 2024,25.25,0,4,1,Defeat,BO3
+68,Braum,Victory,2024-06-13,AL vs WBG,Crisp,LPL Summer Placements 2024,26.55,2,1,15,Victory,BO3
+69,Leona,Victory,2024-06-13,AL vs WBG,Crisp,LPL Summer Placements 2024,36.05,1,4,12,Victory,BO3
+70,Rell,Defeat,2024-06-08,Ultra Prime vs WBG,Crisp,LPL Summer Placements 2024,31.166666666666668,0,4,3,Defeat,BO3
+71,Braum,Victory,2024-06-08,Ultra Prime vs WBG,Crisp,LPL Summer Placements 2024,27.4,0,0,9,Defeat,BO3
+72,Nautilus,Defeat,2024-06-08,Ultra Prime vs WBG,Crisp,LPL Summer Placements 2024,29.45,0,3,1,Defeat,BO3
+73,Rakan,Victory,2024-06-03,WBG vs IG,Crisp,LPL Summer Placements 2024,32.166666666666664,0,0,13,Victory,BO3
+74,Nautilus,Defeat,2024-06-03,WBG vs IG,Crisp,LPL Summer Placements 2024,32.11666666666667,1,5,6,Victory,BO3
+75,Rell,Victory,2024-06-03,WBG vs IG,Crisp,LPL Summer Placements 2024,27.766666666666666,0,3,15,Victory,BO3
+76,Lulu,Defeat,2024-06-01,WBG vs NIP,Crisp,LPL Summer Placements 2024,33.516666666666666,0,3,6,Defeat,BO3
+77,Leona,Defeat,2024-06-01,WBG vs NIP,Crisp,LPL Summer Placements 2024,33.766666666666666,1,1,2,Defeat,BO3
+78,Nautilus,Victory,2024-06-01,WBG vs NIP,Crisp,LPL Summer Placements 2024,38.45,0,5,12,Defeat,BO3
+79,Nautilus,Defeat,2024-04-05,JD Gaming vs WBG,Crisp,LPL Spring Playoffs 2024,34.06666666666667,1,2,7,Defeat,BO5
+80,Rumble,Defeat,2024-04-05,JD Gaming vs WBG,Crisp,LPL Spring Playoffs 2024,34.11666666666667,3,4,6,Defeat,BO5
+81,Annie,Defeat,2024-04-05,JD Gaming vs WBG,Crisp,LPL Spring Playoffs 2024,35.03333333333333,0,3,3,Defeat,BO5
+82,Rakan,Victory,2024-04-03,LNG Esports vs WBG,Crisp,LPL Spring Playoffs 2024,35.88333333333333,1,2,9,Victory,BO5
+83,Nautilus,Defeat,2024-04-03,LNG Esports vs WBG,Crisp,LPL Spring Playoffs 2024,28.533333333333335,0,5,0,Victory,BO5
+84,Lulu,Defeat,2024-04-03,LNG Esports vs WBG,Crisp,LPL Spring Playoffs 2024,28.516666666666666,0,2,5,Victory,BO5
+85,Neeko,Victory,2024-04-03,LNG Esports vs WBG,Crisp,LPL Spring Playoffs 2024,33.18333333333333,2,0,8,Victory,BO5
+86,Ashe,Victory,2024-04-03,LNG Esports vs WBG,Crisp,LPL Spring Playoffs 2024,36.85,2,1,14,Victory,BO5
+87,Rakan,Victory,2024-04-01,WBG vs IG,Crisp,LPL Spring Playoffs 2024,30.233333333333334,0,2,8,Victory,BO5
+88,Heimerdinger,Defeat,2024-04-01,WBG vs IG,Crisp,LPL Spring Playoffs 2024,48.15,1,6,4,Victory,BO5
+89,Renata Glasc,Defeat,2024-04-01,WBG vs IG,Crisp,LPL Spring Playoffs 2024,26.65,1,3,3,Victory,BO5
+90,Lulu,Victory,2024-04-01,WBG vs IG,Crisp,LPL Spring Playoffs 2024,29.65,1,2,18,Victory,BO5
+91,Rakan,Victory,2024-04-01,WBG vs IG,Crisp,LPL Spring Playoffs 2024,29.866666666666667,0,1,13,Victory,BO5
+92,Rakan,Victory,2024-03-26,WBG vs IG,Crisp,LPL Spring 2024,29.966666666666665,2,1,8,Victory,BO3
+93,Rakan,Victory,2024-03-26,WBG vs IG,Crisp,LPL Spring 2024,46.28333333333333,0,3,16,Victory,BO3
+94,Nautilus,Victory,2024-03-22,JD Gaming vs WBG,Crisp,LPL Spring 2024,22.866666666666667,1,1,6,Victory,BO3
+95,Nami,Victory,2024-03-22,JD Gaming vs WBG,Crisp,LPL Spring 2024,39.483333333333334,0,2,11,Victory,BO3
+96,Bard,Defeat,2024-03-19,LGD Gaming vs WBG,Crisp,LPL Spring 2024,39.45,1,2,8,Defeat,BO3
+97,Alistar,Victory,2024-03-19,LGD Gaming vs WBG,Crisp,LPL Spring 2024,28.916666666666668,0,0,8,Defeat,BO3
+98,Tahm Kench,Defeat,2024-03-19,LGD Gaming vs WBG,Crisp,LPL Spring 2024,27.95,0,5,8,Defeat,BO3
+99,Nami,Defeat,2024-03-16,BLG vs WBG,Crisp,LPL Spring 2024,30.866666666666667,0,5,5,Defeat,BO3
+100,Nautilus,Defeat,2024-03-16,BLG vs WBG,Crisp,LPL Spring 2024,28.65,2,6,1,Defeat,BO3
+101,Alistar,Victory,2024-03-13,WBG vs EDG,Crisp,LPL Spring 2024,27.566666666666666,0,2,6,Victory,BO3
+102,Rakan,Victory,2024-03-13,WBG vs EDG,Crisp,LPL Spring 2024,42.78333333333333,0,1,14,Victory,BO3
+103,Ashe,Defeat,2024-03-13,WBG vs EDG,Crisp,LPL Spring 2024,33.38333333333333,3,1,5,Victory,BO3
+104,Thresh,Defeat,2024-03-10,Team WE vs WBG,Crisp,LPL Spring 2024,39.38333333333333,2,8,6,Defeat,BO3
+105,Rakan,Defeat,2024-03-10,Team WE vs WBG,Crisp,LPL Spring 2024,29.85,0,1,4,Defeat,BO3
+106,Bard,Victory,2024-03-07,WBG vs NIP,Crisp,LPL Spring 2024,33.166666666666664,0,1,13,Victory,BO3
+107,Rakan,Victory,2024-03-07,WBG vs NIP,Crisp,LPL Spring 2024,41.8,1,5,13,Victory,BO3
+108,Nami,Defeat,2024-03-03,WBG vs FPX,Crisp,LPL Spring 2024,33.31666666666667,0,6,9,Defeat,BO3
+109,Renata Glasc,Defeat,2024-03-03,WBG vs FPX,Crisp,LPL Spring 2024,45.516666666666666,1,3,8,Defeat,BO3
+110,Renata Glasc,Defeat,2024-02-29,WBG vs AL,Crisp,LPL Spring 2024,35.583333333333336,4,5,5,Defeat,BO3
+111,Nautilus,Defeat,2024-02-29,WBG vs AL,Crisp,LPL Spring 2024,28.85,0,4,3,Defeat,BO3
+112,Renata Glasc,Victory,2024-02-29,WBG vs AL,Crisp,LPL Spring 2024,32.63333333333333,0,1,5,Defeat,BO3
+113,Rakan,Defeat,2024-02-25,WBG vs OMG,Crisp,LPL Spring 2024,27.75,1,4,4,Defeat,BO3
+114,Milio,Defeat,2024-02-25,WBG vs OMG,Crisp,LPL Spring 2024,28.466666666666665,1,1,8,Defeat,BO3
+115,Ashe,Victory,2024-02-25,WBG vs OMG,Crisp,LPL Spring 2024,23.916666666666668,0,0,8,Defeat,BO3
+116,Rakan,Victory,2024-02-21,Ultra Prime vs WBG,Crisp,LPL Spring 2024,35.233333333333334,0,5,20,Victory,BO3
+117,Milio,Victory,2024-02-21,Ultra Prime vs WBG,Crisp,LPL Spring 2024,36.9,0,0,13,Victory,BO3
+118,Maokai,Defeat,2024-02-07,WBG vs Top Esports,Crisp,LPL Spring 2024,37.583333333333336,1,5,8,Defeat,BO3
+119,Nautilus,Defeat,2024-02-07,WBG vs Top Esports,Crisp,LPL Spring 2024,23.533333333333335,1,7,1,Defeat,BO3
+120,Nami,Victory,2024-02-04,RNG vs WBG,Crisp,LPL Spring 2024,30.433333333333334,2,1,11,Victory,BO3
+121,Zyra,Victory,2024-02-04,RNG vs WBG,Crisp,LPL Spring 2024,53.0,0,3,8,Victory,BO3
+122,Rell,Defeat,2024-02-01,LNG Esports vs WBG,Crisp,LPL Spring 2024,38.28333333333333,0,5,5,Defeat,BO3
+123,Tahm Kench,Defeat,2024-02-01,LNG Esports vs WBG,Crisp,LPL Spring 2024,30.433333333333334,0,4,1,Defeat,BO3
+124,Blitzcrank,Victory,2024-02-01,LNG Esports vs WBG,Crisp,LPL Spring 2024,44.233333333333334,0,6,15,Defeat,BO3
+125,Nami,Victory,2024-01-28,TT vs WBG,Crisp,LPL Spring 2024,34.13333333333333,2,0,15,Victory,BO3
+126,Milio,Victory,2024-01-28,TT vs WBG,Crisp,LPL Spring 2024,48.0,2,2,13,Victory,BO3
+127,Renata Glasc,Victory,2024-01-25,WBG vs Rare Atom,Crisp,LPL Spring 2024,31.166666666666668,1,0,12,Victory,BO3
+128,Milio,Victory,2024-01-25,WBG vs Rare Atom,Crisp,LPL Spring 2024,37.43333333333333,0,0,10,Victory,BO3
+129,Nautilus,Defeat,2024-10-17,LNG Esports vs WBG,Hang,Worlds Main Event 2024,30.616666666666667,0,6,6,Defeat,BO5
+130,Alistar,Defeat,2024-10-17,LNG Esports vs WBG,Hang,Worlds Main Event 2024,37.75,0,7,3,Defeat,BO5
+131,Leona,Victory,2024-10-17,LNG Esports vs WBG,Hang,Worlds Main Event 2024,43.416666666666664,1,5,14,Defeat,BO5
+132,Rell,Defeat,2024-10-17,LNG Esports vs WBG,Hang,Worlds Main Event 2024,31.533333333333335,1,3,10,Defeat,BO5
+133,Rell,Victory,2024-10-05,Dplus KIA vs LNG Esports,Hang,Worlds Main Event 2024,39.833333333333336,1,3,18,Victory,BO3
+134,Rell,Victory,2024-10-05,Dplus KIA vs LNG Esports,Hang,Worlds Main Event 2024,36.85,0,3,13,Victory,BO3
+135,Poppy,Victory,2024-10-04,BLG vs LNG Esports,Hang,Worlds Main Event 2024,29.666666666666668,2,4,14,Victory,BO1
+136,Rell,Victory,2024-10-03,Team Liquid vs LNG Esports,Hang,Worlds Main Event 2024,34.55,0,3,15,Victory,BO1
+137,Rakan,Victory,2024-08-31,WBG vs LNG Esports,Hang,LPL Regional Finals 2024,34.666666666666664,0,4,17,Victory,BO5
+138,Rakan,Victory,2024-08-31,WBG vs LNG Esports,Hang,LPL Regional Finals 2024,28.55,0,3,15,Victory,BO5
+139,Rell,Victory,2024-08-31,WBG vs LNG Esports,Hang,LPL Regional Finals 2024,27.883333333333333,0,0,12,Victory,BO5
+140,Leona,Defeat,2024-08-22,WBG vs LNG Esports,Hang,LPL Summer Playoffs 2024,32.65,0,3,3,Defeat,BO5
+141,Rell,Defeat,2024-08-22,WBG vs LNG Esports,Hang,LPL Summer Playoffs 2024,39.11666666666667,1,5,13,Defeat,BO5
+142,Leona,Victory,2024-08-22,WBG vs LNG Esports,Hang,LPL Summer Playoffs 2024,29.5,3,4,10,Defeat,BO5
+143,Alistar,Defeat,2024-08-22,WBG vs LNG Esports,Hang,LPL Summer Playoffs 2024,27.533333333333335,0,5,3,Defeat,BO5
+144,Leona,Victory,2024-08-22,WBG vs LNG Esports,Hang,LPL Summer Playoffs 2024,31.783333333333335,1,5,8,Defeat,BO5
+145,Braum,Defeat,2024-08-18,LNG Esports vs Top Esports,Hang,LPL Summer Playoffs 2024,28.066666666666666,0,2,1,Defeat,BO5
+146,Rakan,Defeat,2024-08-18,LNG Esports vs Top Esports,Hang,LPL Summer Playoffs 2024,36.11666666666667,0,2,6,Defeat,BO5
+147,Nautilus,Defeat,2024-08-18,LNG Esports vs Top Esports,Hang,LPL Summer Playoffs 2024,30.316666666666666,0,5,5,Defeat,BO5
+148,Alistar,Victory,2024-07-28,LNG Esports vs AL,Hang,LPL Summer Season 2024,36.416666666666664,0,1,7,Victory,BO3
+149,Leona,Victory,2024-07-28,LNG Esports vs AL,Hang,LPL Summer Season 2024,33.083333333333336,2,1,7,Victory,BO3
+150,Nautilus,Defeat,2024-07-28,LNG Esports vs AL,Hang,LPL Summer Season 2024,46.28333333333333,0,2,15,Victory,BO3
+151,Braum,Victory,2024-07-27,LNG Esports vs LGD Gaming,Hang,LPL Summer Season 2024,30.033333333333335,0,1,11,Victory,BO3
+152,Rell,Victory,2024-07-27,LNG Esports vs LGD Gaming,Hang,LPL Summer Season 2024,30.083333333333332,1,0,20,Victory,BO3
+153,Alistar,Defeat,2024-07-27,LNG Esports vs LGD Gaming,Hang,LPL Summer Season 2024,32.666666666666664,0,4,7,Victory,BO3
+154,Maokai,Victory,2024-07-24,LNG Esports vs JD Gaming,Hang,LPL Summer Season 2024,27.9,2,2,5,Victory,BO3
+155,Rakan,Defeat,2024-07-24,LNG Esports vs JD Gaming,Hang,LPL Summer Season 2024,35.483333333333334,1,1,7,Victory,BO3
+156,Leona,Victory,2024-07-24,LNG Esports vs JD Gaming,Hang,LPL Summer Season 2024,33.86666666666667,0,2,8,Victory,BO3
+157,Alistar,Defeat,2024-07-21,LNG Esports vs FPX,Hang,LPL Summer Season 2024,36.56666666666667,1,3,7,Defeat,BO3
+158,Rakan,Defeat,2024-07-21,LNG Esports vs FPX,Hang,LPL Summer Season 2024,42.56666666666667,1,4,9,Defeat,BO3
+159,Rakan,Victory,2024-07-18,LNG Esports vs BLG,Hang,LPL Summer Season 2024,31.383333333333333,1,3,12,Victory,BO3
+160,Rakan,Defeat,2024-07-18,LNG Esports vs BLG,Hang,LPL Summer Season 2024,29.4,0,4,1,Victory,BO3
+161,Nautilus,Victory,2024-07-18,LNG Esports vs BLG,Hang,LPL Summer Season 2024,32.31666666666667,0,2,12,Victory,BO3
+162,Rakan,Victory,2024-07-14,LNG Esports vs Top Esports,Hang,LPL Summer Season 2024,36.11666666666667,0,3,13,Victory,BO3
+163,Leona,Victory,2024-07-14,LNG Esports vs Top Esports,Hang,LPL Summer Season 2024,37.1,0,2,9,Victory,BO3
+164,Rakan,Victory,2024-07-10,LNG Esports vs WBG,Hang,LPL Summer Season 2024,32.516666666666666,0,0,6,Victory,BO3
+165,Alistar,Defeat,2024-07-10,LNG Esports vs WBG,Hang,LPL Summer Season 2024,35.166666666666664,0,8,7,Victory,BO3
+166,Poppy,Victory,2024-07-10,LNG Esports vs WBG,Hang,LPL Summer Season 2024,35.6,1,2,10,Victory,BO3
+167,Nautilus,Victory,2024-07-07,NIP vs LNG Esports,Hang,LPL Summer Season 2024,27.166666666666668,0,2,11,Victory,BO3
+168,Nautilus,Victory,2024-07-07,NIP vs LNG Esports,Hang,LPL Summer Season 2024,26.933333333333334,2,2,9,Victory,BO3
+169,Alistar,Victory,2024-06-26,LNG Esports vs OMG,Hang,LPL Summer Placements 2024,33.38333333333333,1,3,10,Victory,BO3
+170,Nautilus,Defeat,2024-06-26,LNG Esports vs OMG,Hang,LPL Summer Placements 2024,30.566666666666666,0,6,6,Victory,BO3
+171,Renata Glasc,Victory,2024-06-26,LNG Esports vs OMG,Hang,LPL Summer Placements 2024,32.333333333333336,1,2,19,Victory,BO3
+172,Rakan,Defeat,2024-06-23,Top Esports vs LNG Esports,Hang,LPL Summer Placements 2024,27.016666666666666,0,4,5,Defeat,BO3
+173,Rell,Defeat,2024-06-23,Top Esports vs LNG Esports,Hang,LPL Summer Placements 2024,26.083333333333332,0,2,5,Defeat,BO3
+174,Leona,Victory,2024-06-23,Top Esports vs LNG Esports,Hang,LPL Summer Placements 2024,46.03333333333333,0,7,11,Defeat,BO3
+175,Leona,Victory,2024-06-16,Rare Atom vs LNG Esports,Hang,LPL Summer Placements 2024,26.666666666666668,0,2,6,Victory,BO3
+176,Nautilus,Victory,2024-06-16,Rare Atom vs LNG Esports,Hang,LPL Summer Placements 2024,31.433333333333334,0,3,17,Victory,BO3
+177,Leona,Defeat,2024-06-12,LNG Esports vs Rare Atom,Hang,LPL Summer Placements 2024,40.1,0,4,5,Defeat,BO3
+178,Ornn,Defeat,2024-06-12,LNG Esports vs Rare Atom,Hang,LPL Summer Placements 2024,29.0,1,1,6,Defeat,BO3
+179,Nautilus,Victory,2024-06-12,LNG Esports vs Rare Atom,Hang,LPL Summer Placements 2024,34.13333333333333,0,3,9,Defeat,BO3
+180,Nautilus,Defeat,2024-06-07,LNG Esports vs Top Esports,Hang,LPL Summer Placements 2024,32.81666666666667,0,3,10,Defeat,BO3
+181,Rakan,Defeat,2024-06-07,LNG Esports vs Top Esports,Hang,LPL Summer Placements 2024,24.433333333333334,1,2,2,Defeat,BO3
+182,Rell,Victory,2024-06-03,OMG vs LNG Esports,Hang,LPL Summer Placements 2024,34.18333333333333,0,8,18,Victory,BO3
+183,Nautilus,Victory,2024-06-03,OMG vs LNG Esports,Hang,LPL Summer Placements 2024,30.233333333333334,0,2,8,Victory,BO3
+184,Tahm Kench,Defeat,2024-04-03,LNG Esports vs WBG,Hang,LPL Spring Playoffs 2024,35.88333333333333,0,3,4,Defeat,BO5
+185,Tahm Kench,Victory,2024-04-03,LNG Esports vs WBG,Hang,LPL Spring Playoffs 2024,28.533333333333335,0,0,13,Defeat,BO5
+186,Nami,Victory,2024-04-03,LNG Esports vs WBG,Hang,LPL Spring Playoffs 2024,28.516666666666666,0,4,9,Defeat,BO5
+187,Nami,Defeat,2024-04-03,LNG Esports vs WBG,Hang,LPL Spring Playoffs 2024,33.18333333333333,1,4,1,Defeat,BO5
+188,Bard,Defeat,2024-04-03,LNG Esports vs WBG,Hang,LPL Spring Playoffs 2024,36.85,0,5,3,Defeat,BO5
+189,Nautilus,Victory,2024-03-27,Rare Atom vs LNG Esports,Hang,LPL Spring 2024,25.883333333333333,1,3,13,Victory,BO3
+190,Nautilus,Victory,2024-03-27,Rare Atom vs LNG Esports,Hang,LPL Spring 2024,34.93333333333333,0,4,13,Victory,BO3
+191,Rakan,Defeat,2024-03-27,Rare Atom vs LNG Esports,Hang,LPL Spring 2024,33.85,1,8,14,Victory,BO3
+192,Nautilus,Victory,2024-03-23,Team WE vs LNG Esports,Hang,LPL Spring 2024,31.766666666666666,1,3,17,Victory,BO3
+193,Heimerdinger,Victory,2024-03-23,Team WE vs LNG Esports,Hang,LPL Spring 2024,30.15,1,0,14,Victory,BO3
+194,Nautilus,Victory,2024-03-20,LNG Esports vs AL,Hang,LPL Spring 2024,33.3,1,6,13,Victory,BO3
+195,Nami,Victory,2024-03-20,LNG Esports vs AL,Hang,LPL Spring 2024,29.116666666666667,0,1,12,Victory,BO3
+196,Rakan,Victory,2024-03-16,LNG Esports vs EDG,Hang,LPL Spring 2024,28.583333333333332,1,1,13,Victory,BO3
+197,Heimerdinger,Victory,2024-03-16,LNG Esports vs EDG,Hang,LPL Spring 2024,39.65,0,2,6,Victory,BO3
+198,Rell,Victory,2024-03-12,IG vs LNG Esports,Hang,LPL Spring 2024,33.21666666666667,0,4,12,Victory,BO3
+199,Renata Glasc,Defeat,2024-03-12,IG vs LNG Esports,Hang,LPL Spring 2024,28.433333333333334,2,3,3,Victory,BO3
+200,Nautilus,Victory,2024-03-12,IG vs LNG Esports,Hang,LPL Spring 2024,28.616666666666667,0,0,16,Victory,BO3
+201,Nautilus,Defeat,2024-03-08,LGD Gaming vs LNG Esports,Hang,LPL Spring 2024,29.55,0,1,3,Defeat,BO3
+202,Rakan,Victory,2024-03-08,LGD Gaming vs LNG Esports,Hang,LPL Spring 2024,32.28333333333333,0,2,15,Defeat,BO3
+203,Rakan,Defeat,2024-03-08,LGD Gaming vs LNG Esports,Hang,LPL Spring 2024,31.233333333333334,1,6,6,Defeat,BO3
+204,Nautilus,Victory,2024-03-02,LNG Esports vs Ultra Prime,Hang,LPL Spring 2024,30.883333333333333,1,2,12,Victory,BO3
+205,Milio,Defeat,2024-03-02,LNG Esports vs Ultra Prime,Hang,LPL Spring 2024,31.65,0,3,6,Victory,BO3
+206,Rakan,Victory,2024-03-02,LNG Esports vs Ultra Prime,Hang,LPL Spring 2024,24.316666666666666,0,1,18,Victory,BO3
+207,Heimerdinger,Victory,2024-02-28,LNG Esports vs RNG,Hang,LPL Spring 2024,33.266666666666666,0,3,3,Victory,BO3
+208,Renata Glasc,Victory,2024-02-28,LNG Esports vs RNG,Hang,LPL Spring 2024,32.88333333333333,1,1,14,Victory,BO3
+209,Tahm Kench,Defeat,2024-02-25,NIP vs LNG Esports,Hang,LPL Spring 2024,27.433333333333334,1,2,4,Defeat,BO3
+210,Renata Glasc,Defeat,2024-02-25,NIP vs LNG Esports,Hang,LPL Spring 2024,29.05,1,1,4,Defeat,BO3
+211,Milio,Victory,2024-02-25,NIP vs LNG Esports,Hang,LPL Spring 2024,44.95,1,1,13,Defeat,BO3
+212,Milio,Defeat,2024-02-23,LNG Esports vs Top Esports,Hang,LPL Spring 2024,29.35,0,4,1,Defeat,BO3
+213,Tahm Kench,Defeat,2024-02-23,LNG Esports vs Top Esports,Hang,LPL Spring 2024,26.083333333333332,0,1,1,Defeat,BO3
+214,Rell,Defeat,2024-11-02,BLG vs T1,ON,Worlds Main Event 2024,32.21666666666667,0,5,5,Defeat,BO5
+215,Rakan,Defeat,2024-11-02,BLG vs T1,ON,Worlds Main Event 2024,31.7,1,2,5,Defeat,BO5
+216,Blitzcrank,Victory,2024-11-02,BLG vs T1,ON,Worlds Main Event 2024,27.583333333333332,1,1,9,Defeat,BO5
+217,Rakan,Defeat,2024-11-02,BLG vs T1,ON,Worlds Main Event 2024,27.416666666666668,0,3,3,Defeat,BO5
+218,Rell,Victory,2024-11-02,BLG vs T1,ON,Worlds Main Event 2024,27.15,1,1,14,Defeat,BO5
+219,Alistar,Victory,2024-10-26,WBG vs BLG,ON,Worlds Main Event 2024,27.75,0,2,11,Victory,BO5
+220,Rell,Victory,2024-10-26,WBG vs BLG,ON,Worlds Main Event 2024,31.616666666666667,2,5,10,Victory,BO5
+221,Neeko,Victory,2024-10-26,WBG vs BLG,ON,Worlds Main Event 2024,39.28333333333333,0,3,3,Victory,BO5
+222,Rakan,Victory,2024-10-18,HLE vs BLG,ON,Worlds Main Event 2024,40.13333333333333,0,5,11,Victory,BO5
+223,Rakan,Victory,2024-10-18,HLE vs BLG,ON,Worlds Main Event 2024,36.983333333333334,0,3,18,Victory,BO5
+224,Rakan,Victory,2024-10-18,HLE vs BLG,ON,Worlds Main Event 2024,26.9,1,1,12,Victory,BO5
+225,Rell,Defeat,2024-10-18,HLE vs BLG,ON,Worlds Main Event 2024,34.86666666666667,0,6,7,Victory,BO5
+226,Rell,Victory,2024-10-13,G2 Esports vs BLG,ON,Worlds Main Event 2024,34.63333333333333,2,4,16,Victory,BO3
+227,Renata Glasc,Defeat,2024-10-13,G2 Esports vs BLG,ON,Worlds Main Event 2024,29.933333333333334,0,3,2,Victory,BO3
+228,Alistar,Victory,2024-10-13,G2 Esports vs BLG,ON,Worlds Main Event 2024,34.96666666666667,2,1,12,Victory,BO3
+229,Nautilus,Victory,2024-10-11,BLG vs PSG Talon,ON,Worlds Main Event 2024,28.15,0,6,14,Victory,BO3
+230,Leona,Victory,2024-10-11,BLG vs PSG Talon,ON,Worlds Main Event 2024,35.3,0,7,12,Victory,BO3
+231,Poppy,Defeat,2024-10-06,BLG vs T1,ON,Worlds Main Event 2024,34.15,0,5,4,Defeat,BO1
+232,Rell,Defeat,2024-10-04,BLG vs LNG Esports,ON,Worlds Main Event 2024,29.666666666666668,0,7,8,Defeat,BO1
+233,Rell,Victory,2024-10-03,BLG vs MDK,ON,Worlds Main Event 2024,26.6,0,4,17,Victory,BO1
+234,Bard,Victory,2024-08-30,BLG vs WBG,ON,LPL Summer Playoffs 2024,39.45,0,6,12,Victory,BO5
+235,Braum,Victory,2024-08-30,BLG vs WBG,ON,LPL Summer Playoffs 2024,25.083333333333332,1,3,23,Victory,BO5
+236,Alistar,Victory,2024-08-30,BLG vs WBG,ON,LPL Summer Playoffs 2024,25.016666666666666,0,1,5,Victory,BO5
+237,Rell,Victory,2024-08-21,BLG vs Top Esports,ON,LPL Summer Playoffs 2024,30.55,2,9,25,Victory,BO5
+238,Rell,Victory,2024-08-21,BLG vs Top Esports,ON,LPL Summer Playoffs 2024,24.6,1,2,15,Victory,BO5
+239,Renata Glasc,Victory,2024-08-21,BLG vs Top Esports,ON,LPL Summer Playoffs 2024,30.766666666666666,2,2,14,Victory,BO5
+240,Rell,Defeat,2024-08-21,BLG vs Top Esports,ON,LPL Summer Playoffs 2024,28.416666666666668,3,10,6,Victory,BO5
+241,Rell,Victory,2024-08-17,BLG vs WBG,ON,LPL Summer Playoffs 2024,25.65,2,5,25,Victory,BO5
+242,Alistar,Victory,2024-08-17,BLG vs WBG,ON,LPL Summer Playoffs 2024,29.816666666666666,3,1,8,Victory,BO5
+243,Rell,Victory,2024-08-17,BLG vs WBG,ON,LPL Summer Playoffs 2024,34.88333333333333,1,0,10,Victory,BO5
+244,Rell,Victory,2024-07-31,FPX vs BLG,ON,LPL Summer Season 2024,22.766666666666666,0,2,26,Victory,BO3
+245,Rell,Victory,2024-07-31,FPX vs BLG,ON,LPL Summer Season 2024,36.55,2,8,19,Victory,BO3
+246,Rell,Victory,2024-07-30,BLG vs AL,ON,LPL Summer Season 2024,28.55,0,1,10,Victory,BO3
+247,Nautilus,Defeat,2024-07-30,BLG vs AL,ON,LPL Summer Season 2024,38.56666666666667,1,5,8,Victory,BO3
+248,Rakan,Victory,2024-07-30,BLG vs AL,ON,LPL Summer Season 2024,24.083333333333332,1,0,11,Victory,BO3
+249,Alistar,Victory,2024-07-26,NIP vs BLG,ON,LPL Summer Season 2024,36.15,0,3,16,Victory,BO3
+250,Ornn,Victory,2024-07-26,NIP vs BLG,ON,LPL Summer Season 2024,35.5,1,1,11,Victory,BO3
+251,Leona,Defeat,2024-07-26,NIP vs BLG,ON,LPL Summer Season 2024,28.2,0,2,0,Victory,BO3
+252,Renata Glasc,Victory,2024-07-23,WBG vs BLG,ON,LPL Summer Season 2024,27.15,0,3,12,Victory,BO3
+253,Alistar,Victory,2024-07-23,WBG vs BLG,ON,LPL Summer Season 2024,24.05,0,2,15,Victory,BO3
+254,Nautilus,Defeat,2024-07-23,WBG vs BLG,ON,LPL Summer Season 2024,29.966666666666665,1,7,4,Victory,BO3
+255,Alistar,Victory,2024-07-20,JD Gaming vs BLG,ON,LPL Summer Season 2024,30.133333333333333,0,3,16,Victory,BO3
+256,Rell,Victory,2024-07-20,JD Gaming vs BLG,ON,LPL Summer Season 2024,27.083333333333332,0,2,4,Victory,BO3
+257,Ornn,Defeat,2024-07-20,JD Gaming vs BLG,ON,LPL Summer Season 2024,37.45,2,3,6,Victory,BO3
+258,Leona,Defeat,2024-07-18,LNG Esports vs BLG,ON,LPL Summer Season 2024,31.383333333333333,2,3,3,Defeat,BO3
+259,Bard,Victory,2024-07-18,LNG Esports vs BLG,ON,LPL Summer Season 2024,29.4,1,0,7,Defeat,BO3
+260,Rakan,Defeat,2024-07-18,LNG Esports vs BLG,ON,LPL Summer Season 2024,32.31666666666667,1,6,4,Defeat,BO3
+261,Rakan,Victory,2024-07-15,LGD Gaming vs BLG,ON,LPL Summer Season 2024,29.45,0,1,14,Victory,BO3
+262,Nautilus,Victory,2024-07-15,LGD Gaming vs BLG,ON,LPL Summer Season 2024,28.616666666666667,2,6,13,Victory,BO3
+263,Leona,Victory,2024-07-12,Top Esports vs BLG,ON,LPL Summer Season 2024,29.0,1,2,11,Victory,BO3
+264,Leona,Victory,2024-07-12,Top Esports vs BLG,ON,LPL Summer Season 2024,28.15,1,3,8,Victory,BO3
+265,Renata Glasc,Defeat,2024-07-12,Top Esports vs BLG,ON,LPL Summer Season 2024,42.93333333333333,2,7,12,Victory,BO3
+266,Rakan,Defeat,2024-07-04,BLG vs T1,ON,Esports World Cup 2024,30.5,0,5,4,Defeat,BO3
+267,Nautilus,Victory,2024-07-04,BLG vs T1,ON,Esports World Cup 2024,31.75,2,2,13,Defeat,BO3
+268,Nautilus,Defeat,2024-07-04,BLG vs T1,ON,Esports World Cup 2024,39.016666666666666,2,4,4,Defeat,BO3
+269,Rell,Defeat,2024-06-27,LGD Gaming vs BLG,ON,LPL Summer Placements 2024,37.85,1,3,11,Defeat,BO3
+270,Renata Glasc,Victory,2024-06-27,LGD Gaming vs BLG,ON,LPL Summer Placements 2024,28.4,2,2,13,Defeat,BO3
+271,Nautilus,Defeat,2024-06-27,LGD Gaming vs BLG,ON,LPL Summer Placements 2024,34.68333333333333,2,6,9,Defeat,BO3
+272,Alistar,Victory,2024-06-22,BLG vs RNG,ON,LPL Summer Placements 2024,36.13333333333333,0,1,15,Victory,BO3
+273,Rell,Victory,2024-06-22,BLG vs RNG,ON,LPL Summer Placements 2024,34.45,0,2,5,Victory,BO3
+274,Rell,Victory,2024-06-18,BLG vs Team WE,ON,LPL Summer Placements 2024,31.05,0,3,14,Victory,BO3
+275,Rakan,Victory,2024-06-18,BLG vs Team WE,ON,LPL Summer Placements 2024,38.016666666666666,0,6,16,Victory,BO3
+276,Nautilus,Victory,2024-06-13,Team WE vs BLG,ON,LPL Summer Placements 2024,29.55,0,0,11,Victory,BO3
+277,Rell,Victory,2024-06-13,Team WE vs BLG,ON,LPL Summer Placements 2024,30.633333333333333,2,3,9,Victory,BO3
+278,Camille,Defeat,2024-06-13,Team WE vs BLG,ON,LPL Summer Placements 2024,35.9,2,4,7,Victory,BO3
+279,Nautilus,Victory,2024-06-10,BLG vs LGD Gaming,ON,LPL Summer Placements 2024,41.35,0,5,10,Victory,BO3
+280,Rell,Victory,2024-06-10,BLG vs LGD Gaming,ON,LPL Summer Placements 2024,44.1,3,4,14,Victory,BO3
+281,Nautilus,Victory,2024-06-06,RNG vs BLG,ON,LPL Summer Placements 2024,29.133333333333333,1,2,13,Victory,BO3
+282,Alistar,Victory,2024-06-06,RNG vs BLG,ON,LPL Summer Placements 2024,31.533333333333335,1,5,13,Victory,BO3
+283,Nautilus,Defeat,2024-05-19,GEN vs BLG,ON,MSI 2024,47.233333333333334,0,9,3,Defeat,BO5
+284,Tahm Kench,Victory,2024-05-19,GEN vs BLG,ON,MSI 2024,40.13333333333333,1,5,7,Defeat,BO5
+285,Ashe,Defeat,2024-05-19,GEN vs BLG,ON,MSI 2024,39.233333333333334,2,11,11,Defeat,BO5
+286,Nami,Defeat,2024-05-19,GEN vs BLG,ON,MSI 2024,38.333333333333336,1,2,9,Defeat,BO5
+287,Ornn,Victory,2024-05-18,BLG vs T1,ON,MSI 2024,33.68333333333333,2,1,8,Victory,BO5
+288,Nautilus,Defeat,2024-05-18,BLG vs T1,ON,MSI 2024,36.53333333333333,3,6,8,Victory,BO5
+289,Ornn,Victory,2024-05-18,BLG vs T1,ON,MSI 2024,23.683333333333334,4,2,14,Victory,BO5
+290,Kalista,Defeat,2024-05-18,BLG vs T1,ON,MSI 2024,29.083333333333332,2,6,2,Victory,BO5
+291,Renata Glasc,Victory,2024-05-18,BLG vs T1,ON,MSI 2024,29.766666666666666,1,2,14,Victory,BO5
+292,Renata Glasc,Defeat,2024-05-16,GEN vs BLG,ON,MSI 2024,41.53333333333333,0,6,11,Defeat,BO5
+293,Tahm Kench,Defeat,2024-05-16,GEN vs BLG,ON,MSI 2024,29.383333333333333,0,7,2,Defeat,BO5
+294,Ashe,Defeat,2024-05-16,GEN vs BLG,ON,MSI 2024,29.183333333333334,0,5,4,Defeat,BO5
+295,Ashe,Victory,2024-05-16,GEN vs BLG,ON,MSI 2024,36.483333333333334,1,2,16,Defeat,BO5
+296,Nautilus,Victory,2024-05-12,T1 vs BLG,ON,MSI 2024,30.533333333333335,1,1,8,Victory,BO5
+297,Nami,Victory,2024-05-12,T1 vs BLG,ON,MSI 2024,30.733333333333334,1,2,19,Victory,BO5
+298,Renata Glasc,Defeat,2024-05-12,T1 vs BLG,ON,MSI 2024,30.983333333333334,1,3,3,Victory,BO5
+299,Renata Glasc,Victory,2024-05-12,T1 vs BLG,ON,MSI 2024,29.066666666666666,1,3,13,Victory,BO5
+300,Ashe,Victory,2024-05-09,BLG vs PSG Talon,ON,MSI 2024,23.883333333333333,2,1,12,Victory,BO5
+301,Rakan,Defeat,2024-05-09,BLG vs PSG Talon,ON,MSI 2024,31.05,0,3,7,Victory,BO5
+302,Nami,Victory,2024-05-09,BLG vs PSG Talon,ON,MSI 2024,24.766666666666666,1,2,11,Victory,BO5
+303,Renata Glasc,Defeat,2024-05-09,BLG vs PSG Talon,ON,MSI 2024,30.466666666666665,1,5,10,Victory,BO5
+304,Renata Glasc,Victory,2024-05-09,BLG vs PSG Talon,ON,MSI 2024,25.5,1,3,11,Victory,BO5
+305,Neeko,Victory,2024-04-20,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,32.666666666666664,2,1,10,Victory,BO5
+306,Kalista,Defeat,2024-04-20,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,36.71666666666667,3,9,13,Victory,BO5
+307,Ornn,Victory,2024-04-20,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,23.2,3,2,12,Victory,BO5
+308,Nami,Victory,2024-04-20,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,43.28333333333333,1,1,13,Victory,BO5
+309,Rakan,Victory,2024-04-11,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,35.083333333333336,0,1,12,Victory,BO5
+310,Rell,Defeat,2024-04-11,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,35.0,0,9,11,Victory,BO5
+311,Renata Glasc,Victory,2024-04-11,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,37.88333333333333,1,1,19,Victory,BO5
+312,Lux,Defeat,2024-04-11,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,34.68333333333333,0,2,2,Victory,BO5
+313,Camille,Victory,2024-04-11,BLG vs Top Esports,ON,LPL Spring Playoffs 2024,35.833333333333336,3,5,11,Victory,BO5
+314,Alistar,Victory,2024-04-06,BLG vs NIP,ON,LPL Spring Playoffs 2024,29.3,0,6,10,Victory,BO5
+315,Nami,Victory,2024-04-06,BLG vs NIP,ON,LPL Spring Playoffs 2024,33.516666666666666,0,0,16,Victory,BO5
+316,Rakan,Defeat,2024-04-06,BLG vs NIP,ON,LPL Spring Playoffs 2024,30.6,0,6,7,Victory,BO5
+317,Renata Glasc,Victory,2024-04-06,BLG vs NIP,ON,LPL Spring Playoffs 2024,32.266666666666666,0,2,11,Victory,BO5
+318,Lulu,Victory,2024-03-23,NIP vs BLG,ON,LPL Spring 2024,28.916666666666668,0,1,8,Victory,BO3
+319,Nami,Victory,2024-03-23,NIP vs BLG,ON,LPL Spring 2024,33.11666666666667,0,0,13,Victory,BO3
+320,Rakan,Victory,2024-03-20,OMG vs BLG,ON,LPL Spring 2024,26.066666666666666,0,2,14,Victory,BO3
+321,Rakan,Defeat,2024-03-20,OMG vs BLG,ON,LPL Spring 2024,32.15,0,6,5,Victory,BO3
+322,Nami,Victory,2024-03-20,OMG vs BLG,ON,LPL Spring 2024,24.166666666666668,0,1,12,Victory,BO3
+323,Lulu,Victory,2024-03-16,BLG vs WBG,ON,LPL Spring 2024,30.866666666666667,0,0,13,Victory,BO3
+324,Ashe,Victory,2024-03-16,BLG vs WBG,ON,LPL Spring 2024,28.65,1,2,16,Victory,BO3
+325,Maokai,Victory,2024-03-14,BLG vs Ultra Prime,ON,LPL Spring 2024,32.3,1,6,8,Victory,BO3
+326,Nami,Victory,2024-03-14,BLG vs Ultra Prime,ON,LPL Spring 2024,31.466666666666665,1,1,9,Victory,BO3
+327,Nautilus,Victory,2024-03-10,BLG vs Rare Atom,ON,LPL Spring 2024,28.383333333333333,0,1,11,Victory,BO3
+328,Rakan,Victory,2024-03-10,BLG vs Rare Atom,ON,LPL Spring 2024,25.433333333333334,2,2,18,Victory,BO3
+329,Rakan,Victory,2024-03-08,FPX vs BLG,ON,LPL Spring 2024,25.55,0,3,12,Victory,BO3
+330,Blitzcrank,Victory,2024-03-08,FPX vs BLG,ON,LPL Spring 2024,28.433333333333334,2,3,18,Victory,BO3
+331,Alistar,Victory,2024-03-04,Team WE vs BLG,ON,LPL Spring 2024,35.05,0,4,15,Victory,BO3
+332,Nautilus,Victory,2024-03-04,Team WE vs BLG,ON,LPL Spring 2024,36.983333333333334,0,6,16,Victory,BO3
+333,Maokai,Victory,2024-03-01,LGD Gaming vs BLG,ON,LPL Spring 2024,45.65,2,4,15,Victory,BO3
+334,Rakan,Victory,2024-03-01,LGD Gaming vs BLG,ON,LPL Spring 2024,30.033333333333335,3,1,14,Victory,BO3
+335,Ezreal,Victory,2024-02-27,BLG vs TT,ON,LPL Spring 2024,36.583333333333336,2,3,16,Victory,BO3
+336,Renata Glasc,Victory,2024-02-27,BLG vs TT,ON,LPL Spring 2024,35.36666666666667,1,1,9,Victory,BO3
+337,Nautilus,Victory,2024-02-24,JD Gaming vs BLG,ON,LPL Spring 2024,37.96666666666667,1,4,12,Victory,BO3
+338,Lux,Defeat,2024-02-24,JD Gaming vs BLG,ON,LPL Spring 2024,46.166666666666664,1,4,7,Victory,BO3
+339,Lux,Victory,2024-02-24,JD Gaming vs BLG,ON,LPL Spring 2024,41.916666666666664,1,0,14,Victory,BO3
+340,Milio,Defeat,2024-02-20,IG vs BLG,ON,LPL Spring 2024,28.433333333333334,0,4,3,Defeat,BO3
+341,Renata Glasc,Defeat,2024-02-20,IG vs BLG,ON,LPL Spring 2024,23.816666666666666,3,4,4,Defeat,BO3
+342,Rakan,Victory,2024-02-06,LNG Esports vs BLG,ON,LPL Spring 2024,46.266666666666666,0,2,13,Victory,BO3
+343,Nami,Victory,2024-02-06,LNG Esports vs BLG,ON,LPL Spring 2024,36.03333333333333,1,1,12,Victory,BO3
+344,Tahm Kench,Victory,2024-02-03,BLG vs EDG,ON,LPL Spring 2024,24.7,1,0,8,Victory,BO3
+345,Nautilus,Victory,2024-02-03,BLG vs EDG,ON,LPL Spring 2024,22.166666666666668,4,2,6,Victory,BO3
+346,Milio,Victory,2024-01-29,BLG vs AL,ON,LPL Spring 2024,26.666666666666668,1,0,11,Victory,BO3
+347,Milio,Victory,2024-01-29,BLG vs AL,ON,LPL Spring 2024,37.65,0,1,18,Victory,BO3
+348,Tahm Kench,Victory,2024-01-26,BLG vs RNG,ON,LPL Spring 2024,37.4,0,0,8,Victory,BO3
+349,Milio,Victory,2024-01-26,BLG vs RNG,ON,LPL Spring 2024,31.916666666666668,3,1,15,Victory,BO3
+350,Renata Glasc,Victory,2024-01-22,BLG vs Top Esports,ON,LPL Spring 2024,27.483333333333334,1,1,14,Victory,BO3
+351,Rakan,Defeat,2024-01-22,BLG vs Top Esports,ON,LPL Spring 2024,30.566666666666666,1,3,0,Victory,BO3
+352,Ashe,Victory,2024-01-22,BLG vs Top Esports,ON,LPL Spring 2024,27.05,3,1,10,Victory,BO3
+353,Leona,Defeat,2024-10-19,Top Esports vs T1,meiko,Worlds Main Event 2024,37.46666666666667,0,3,7,Defeat,BO5
+354,Rell,Defeat,2024-10-19,Top Esports vs T1,meiko,Worlds Main Event 2024,33.75,0,4,0,Defeat,BO5
+355,Leona,Defeat,2024-10-19,Top Esports vs T1,meiko,Worlds Main Event 2024,31.95,0,3,3,Defeat,BO5
+356,Rell,Victory,2024-10-10,Dplus KIA vs Top Esports,meiko,Worlds Main Event 2024,36.416666666666664,1,3,19,Victory,BO3
+357,Braum,Victory,2024-10-10,Dplus KIA vs Top Esports,meiko,Worlds Main Event 2024,32.8,0,1,14,Victory,BO3
+358,Rell,Victory,2024-10-06,Top Esports vs Fnatic,meiko,Worlds Main Event 2024,24.15,0,1,10,Victory,BO1
+359,Rell,Defeat,2024-10-04,GEN vs Top Esports,meiko,Worlds Main Event 2024,33.68333333333333,1,7,9,Defeat,BO1
+360,Rell,Victory,2024-10-03,Top Esports vs T1,meiko,Worlds Main Event 2024,30.566666666666666,1,3,13,Victory,BO1
+361,Leona,Defeat,2024-08-24,Top Esports vs WBG,meiko,LPL Summer Playoffs 2024,34.583333333333336,0,3,3,Defeat,BO5
+362,Rell,Victory,2024-08-24,Top Esports vs WBG,meiko,LPL Summer Playoffs 2024,31.15,1,1,9,Defeat,BO5
+363,Alistar,Defeat,2024-08-24,Top Esports vs WBG,meiko,LPL Summer Playoffs 2024,32.28333333333333,0,5,6,Defeat,BO5
+364,Rell,Victory,2024-08-24,Top Esports vs WBG,meiko,LPL Summer Playoffs 2024,36.016666666666666,1,5,16,Defeat,BO5
+365,Leona,Defeat,2024-08-24,Top Esports vs WBG,meiko,LPL Summer Playoffs 2024,29.233333333333334,1,3,4,Defeat,BO5
+366,Alistar,Defeat,2024-08-21,BLG vs Top Esports,meiko,LPL Summer Playoffs 2024,30.55,1,10,17,Defeat,BO5
+367,Alistar,Defeat,2024-08-21,BLG vs Top Esports,meiko,LPL Summer Playoffs 2024,24.6,0,6,3,Defeat,BO5
+368,Seraphine,Defeat,2024-08-21,BLG vs Top Esports,meiko,LPL Summer Playoffs 2024,30.766666666666666,0,3,5,Defeat,BO5
+369,Leona,Victory,2024-08-21,BLG vs Top Esports,meiko,LPL Summer Playoffs 2024,28.416666666666668,4,3,16,Defeat,BO5
+370,Alistar,Victory,2024-08-18,LNG Esports vs Top Esports,meiko,LPL Summer Playoffs 2024,28.066666666666666,0,0,7,Victory,BO5
+371,Leona,Victory,2024-08-18,LNG Esports vs Top Esports,meiko,LPL Summer Playoffs 2024,36.11666666666667,0,1,4,Victory,BO5
+372,Alistar,Victory,2024-08-18,LNG Esports vs Top Esports,meiko,LPL Summer Playoffs 2024,30.316666666666666,1,1,10,Victory,BO5
+373,Alistar,Victory,2024-08-16,Top Esports vs AL,meiko,LPL Summer Playoffs 2024,32.53333333333333,1,2,5,Victory,BO5
+374,Poppy,Victory,2024-08-16,Top Esports vs AL,meiko,LPL Summer Playoffs 2024,29.583333333333332,3,2,8,Victory,BO5
+375,Poppy,Defeat,2024-08-16,Top Esports vs AL,meiko,LPL Summer Playoffs 2024,29.9,1,7,5,Victory,BO5
+376,Poppy,Victory,2024-08-16,Top Esports vs AL,meiko,LPL Summer Playoffs 2024,32.18333333333333,2,2,14,Victory,BO5
+377,Alistar,Victory,2024-07-31,Top Esports vs JD Gaming,meiko,LPL Summer Season 2024,26.2,0,1,9,Victory,BO3
+378,Alistar,Victory,2024-07-31,Top Esports vs JD Gaming,meiko,LPL Summer Season 2024,41.13333333333333,2,3,14,Victory,BO3
+379,Rell,Victory,2024-07-27,Top Esports vs FPX,meiko,LPL Summer Season 2024,24.033333333333335,2,1,14,Victory,BO3
+380,Braum,Victory,2024-07-27,Top Esports vs FPX,meiko,LPL Summer Season 2024,33.71666666666667,3,5,13,Victory,BO3
+381,Rakan,Victory,2024-07-26,Top Esports vs AL,meiko,LPL Summer Season 2024,31.2,0,3,13,Victory,BO3
+382,Alistar,Victory,2024-07-26,Top Esports vs AL,meiko,LPL Summer Season 2024,24.65,0,1,8,Victory,BO3
+383,Leona,Victory,2024-07-23,Top Esports vs NIP,meiko,LPL Summer Season 2024,26.75,1,4,11,Victory,BO3
+384,Leona,Victory,2024-07-23,Top Esports vs NIP,meiko,LPL Summer Season 2024,37.15,1,4,8,Victory,BO3
+385,Leona,Victory,2024-07-20,Top Esports vs LGD Gaming,meiko,LPL Summer Season 2024,42.65,0,3,10,Victory,BO3
+386,Leona,Victory,2024-07-20,Top Esports vs LGD Gaming,meiko,LPL Summer Season 2024,36.1,1,4,14,Victory,BO3
+387,Karma,Victory,2024-07-17,WBG vs Top Esports,meiko,LPL Summer Season 2024,23.283333333333335,2,2,14,Victory,BO3
+388,Leona,Victory,2024-07-17,WBG vs Top Esports,meiko,LPL Summer Season 2024,35.85,3,5,14,Victory,BO3
+389,Leona,Defeat,2024-07-14,LNG Esports vs Top Esports,meiko,LPL Summer Season 2024,36.11666666666667,0,6,4,Defeat,BO3
+390,Braum,Defeat,2024-07-14,LNG Esports vs Top Esports,meiko,LPL Summer Season 2024,37.1,0,3,5,Defeat,BO3
+391,Ornn,Defeat,2024-07-12,Top Esports vs BLG,meiko,LPL Summer Season 2024,29.0,1,5,3,Defeat,BO3
+392,Ornn,Defeat,2024-07-12,Top Esports vs BLG,meiko,LPL Summer Season 2024,28.15,4,4,2,Defeat,BO3
+393,Ornn,Victory,2024-07-12,Top Esports vs BLG,meiko,LPL Summer Season 2024,42.93333333333333,1,3,14,Defeat,BO3
+394,Leona,Defeat,2024-07-07,T1 vs Top Esports,meiko,Esports World Cup 2024,29.283333333333335,0,4,7,Defeat,BO5
+395,Nautilus,Defeat,2024-07-07,T1 vs Top Esports,meiko,Esports World Cup 2024,38.96666666666667,0,5,5,Defeat,BO5
+396,Braum,Defeat,2024-07-07,T1 vs Top Esports,meiko,Esports World Cup 2024,26.1,0,5,1,Defeat,BO5
+397,Braum,Victory,2024-07-07,T1 vs Top Esports,meiko,Esports World Cup 2024,22.933333333333334,1,0,5,Defeat,BO5
+398,Leona,Victory,2024-07-06,Top Esports vs G2 Esports,meiko,Esports World Cup 2024,26.616666666666667,2,2,15,Victory,BO3
+399,Leona,Victory,2024-07-06,Top Esports vs G2 Esports,meiko,Esports World Cup 2024,28.9,1,3,5,Victory,BO3
+400,Braum,Victory,2024-07-05,GEN vs Top Esports,meiko,Esports World Cup 2024,34.666666666666664,1,0,23,Victory,BO3
+401,Leona,Victory,2024-07-05,GEN vs Top Esports,meiko,Esports World Cup 2024,34.266666666666666,2,3,5,Victory,BO3
+402,Ashe,Victory,2024-06-26,Top Esports vs Rare Atom,meiko,LPL Summer Placements 2024,32.016666666666666,0,2,11,Victory,BO3
+403,Leona,Victory,2024-06-26,Top Esports vs Rare Atom,meiko,LPL Summer Placements 2024,34.21666666666667,0,5,11,Victory,BO3
+404,Leona,Victory,2024-06-23,Top Esports vs LNG Esports,meiko,LPL Summer Placements 2024,27.016666666666666,1,1,17,Victory,BO3
+405,Alistar,Victory,2024-06-23,Top Esports vs LNG Esports,meiko,LPL Summer Placements 2024,26.083333333333332,0,1,10,Victory,BO3
+406,Braum,Defeat,2024-06-23,Top Esports vs LNG Esports,meiko,LPL Summer Placements 2024,46.03333333333333,0,5,15,Victory,BO3
+407,Ornn,Victory,2024-06-16,OMG vs Top Esports,meiko,LPL Summer Placements 2024,28.15,2,3,9,Victory,BO3
+408,Leona,Victory,2024-06-16,OMG vs Top Esports,meiko,LPL Summer Placements 2024,26.433333333333334,1,1,7,Victory,BO3
+409,Ornn,Victory,2024-06-12,Top Esports vs OMG,meiko,LPL Summer Placements 2024,24.683333333333334,1,3,7,Victory,BO3
+410,Leona,Victory,2024-06-12,Top Esports vs OMG,meiko,LPL Summer Placements 2024,32.53333333333333,1,4,13,Victory,BO3
+411,Alistar,Victory,2024-06-07,LNG Esports vs Top Esports,meiko,LPL Summer Placements 2024,32.81666666666667,2,3,3,Victory,BO3
+412,Ornn,Victory,2024-06-07,LNG Esports vs Top Esports,meiko,LPL Summer Placements 2024,24.433333333333334,2,1,8,Victory,BO3
+413,Leona,Victory,2024-06-02,Rare Atom vs Top Esports,meiko,LPL Summer Placements 2024,21.833333333333332,2,0,7,Victory,BO3
+414,Ornn,Victory,2024-06-02,Rare Atom vs Top Esports,meiko,LPL Summer Placements 2024,29.033333333333335,1,1,14,Victory,BO3
+415,Camille,Defeat,2024-05-14,Top Esports vs G2 Esports,meiko,MSI 2024,29.083333333333332,1,5,5,Defeat,BO5
+416,Renata Glasc,Defeat,2024-05-14,Top Esports vs G2 Esports,meiko,MSI 2024,24.716666666666665,0,5,0,Defeat,BO5
+417,Nautilus,Defeat,2024-05-14,Top Esports vs G2 Esports,meiko,MSI 2024,28.783333333333335,0,4,4,Defeat,BO5
+418,Nami,Defeat,2024-05-11,GEN vs Top Esports,meiko,MSI 2024,33.85,1,4,6,Defeat,BO5
+419,Ashe,Victory,2024-05-11,GEN vs Top Esports,meiko,MSI 2024,28.2,3,0,16,Defeat,BO5
+420,Alistar,Victory,2024-05-11,GEN vs Top Esports,meiko,MSI 2024,28.05,0,3,16,Defeat,BO5
+421,Nami,Defeat,2024-05-11,GEN vs Top Esports,meiko,MSI 2024,30.616666666666667,2,2,3,Defeat,BO5
+422,Nautilus,Defeat,2024-05-11,GEN vs Top Esports,meiko,MSI 2024,31.85,0,3,6,Defeat,BO5
+423,Milio,Victory,2024-05-07,Team Liquid vs Top Esports,meiko,MSI 2024,25.95,0,0,16,Victory,BO5
+424,Ornn,Victory,2024-05-07,Team Liquid vs Top Esports,meiko,MSI 2024,24.15,3,1,10,Victory,BO5
+425,Nami,Victory,2024-05-07,Team Liquid vs Top Esports,meiko,MSI 2024,27.416666666666668,2,0,11,Victory,BO5
+426,Ashe,Victory,2024-05-03,Top Esports vs Fnatic,meiko,MSI 2024,28.083333333333332,1,2,11,Victory,BO3
+427,Rumble,Defeat,2024-05-03,Top Esports vs Fnatic,meiko,MSI 2024,28.883333333333333,2,5,5,Victory,BO3
+428,Nami,Victory,2024-05-03,Top Esports vs Fnatic,meiko,MSI 2024,29.166666666666668,1,2,15,Victory,BO3
+429,Renata Glasc,Victory,2024-05-02,Top Esports vs LOUD,meiko,MSI 2024,28.783333333333335,0,2,21,Victory,BO3
+430,Tahm Kench,Victory,2024-05-02,Top Esports vs LOUD,meiko,MSI 2024,32.88333333333333,0,4,23,Victory,BO3
+431,Rakan,Defeat,2024-04-20,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,32.666666666666664,0,2,4,Defeat,BO5
+432,Ashe,Victory,2024-04-20,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,36.71666666666667,2,4,15,Defeat,BO5
+433,Nautilus,Defeat,2024-04-20,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,23.2,0,5,4,Defeat,BO5
+434,Tahm Kench,Defeat,2024-04-20,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,43.28333333333333,2,4,7,Defeat,BO5
+435,Tahm Kench,Victory,2024-04-14,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,34.15,3,0,10,Victory,BO5
+436,Rumble,Victory,2024-04-14,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,28.0,1,0,9,Victory,BO5
+437,Leona,Defeat,2024-04-14,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,32.666666666666664,1,3,8,Victory,BO5
+438,Nami,Victory,2024-04-14,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,29.566666666666666,1,3,13,Victory,BO5
+439,Thresh,Defeat,2024-04-11,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,35.083333333333336,0,3,6,Defeat,BO5
+440,Nautilus,Victory,2024-04-11,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,35.0,0,4,17,Defeat,BO5
+441,Nami,Defeat,2024-04-11,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,37.88333333333333,2,4,1,Defeat,BO5
+442,Nami,Victory,2024-04-11,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,34.68333333333333,0,1,11,Defeat,BO5
+443,Thresh,Defeat,2024-04-11,BLG vs Top Esports,meiko,LPL Spring Playoffs 2024,35.833333333333336,1,4,8,Defeat,BO5
+444,Rumble,Victory,2024-04-07,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,37.8,5,3,12,Victory,BO5
+445,Alistar,Victory,2024-04-07,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,38.31666666666667,0,2,15,Victory,BO5
+446,Nautilus,Victory,2024-04-07,Top Esports vs JD Gaming,meiko,LPL Spring Playoffs 2024,38.36666666666667,2,3,14,Victory,BO5
+447,Ornn,Victory,2024-03-27,Top Esports vs NIP,meiko,LPL Spring 2024,34.35,1,1,8,Victory,BO3
+448,Nautilus,Victory,2024-03-27,Top Esports vs NIP,meiko,LPL Spring 2024,28.433333333333334,2,2,9,Victory,BO3
+449,Nami,Victory,2024-03-24,Top Esports vs AL,meiko,LPL Spring 2024,27.433333333333334,0,2,8,Victory,BO3
+450,Renata Glasc,Victory,2024-03-24,Top Esports vs AL,meiko,LPL Spring 2024,32.88333333333333,0,3,10,Victory,BO3
+451,Neeko,Defeat,2024-03-24,Top Esports vs AL,meiko,LPL Spring 2024,43.483333333333334,1,6,8,Victory,BO3
+452,Nami,Victory,2024-03-22,TT vs Top Esports,meiko,LPL Spring 2024,26.733333333333334,0,1,10,Victory,BO3
+453,Nautilus,Victory,2024-03-22,TT vs Top Esports,meiko,LPL Spring 2024,30.433333333333334,1,4,18,Victory,BO3
+454,Ashe,Victory,2024-03-17,Team WE vs Top Esports,meiko,LPL Spring 2024,25.0,2,1,13,Victory,BO3
+455,Braum,Victory,2024-03-17,Team WE vs Top Esports,meiko,LPL Spring 2024,28.7,1,3,17,Victory,BO3
+456,Lulu,Defeat,2024-03-14,Top Esports vs JD Gaming,meiko,LPL Spring 2024,28.216666666666665,0,4,5,Defeat,BO3
+457,Nautilus,Defeat,2024-03-14,Top Esports vs JD Gaming,meiko,LPL Spring 2024,28.283333333333335,0,4,2,Defeat,BO3
+458,Renata Glasc,Victory,2024-03-14,Top Esports vs JD Gaming,meiko,LPL Spring 2024,33.016666666666666,2,0,6,Defeat,BO3
+459,Maokai,Victory,2024-03-10,Ultra Prime vs Top Esports,meiko,LPL Spring 2024,35.28333333333333,0,4,12,Victory,BO3
+460,Nautilus,Victory,2024-03-10,Ultra Prime vs Top Esports,meiko,LPL Spring 2024,22.25,0,3,14,Victory,BO3
+461,Nautilus,Victory,2024-03-08,Top Esports vs OMG,meiko,LPL Spring 2024,27.0,2,3,13,Victory,BO3
+462,Nautilus,Victory,2024-03-08,Top Esports vs OMG,meiko,LPL Spring 2024,24.583333333333332,0,0,8,Victory,BO3
+463,Alistar,Victory,2024-03-04,LGD Gaming vs Top Esports,meiko,LPL Spring 2024,26.95,1,2,13,Victory,BO3
+464,Nautilus,Victory,2024-03-04,LGD Gaming vs Top Esports,meiko,LPL Spring 2024,32.5,1,1,12,Victory,BO3
+465,Rakan,Victory,2024-03-01,Top Esports vs IG,meiko,LPL Spring 2024,24.916666666666668,1,0,16,Victory,BO3
+466,Milio,Defeat,2024-03-01,Top Esports vs IG,meiko,LPL Spring 2024,26.416666666666668,0,3,3,Victory,BO3
+467,Milio,Victory,2024-03-01,Top Esports vs IG,meiko,LPL Spring 2024,31.083333333333332,1,1,11,Victory,BO3
+468,Renata Glasc,Defeat,2024-02-26,Top Esports vs FPX,meiko,LPL Spring 2024,29.283333333333335,0,1,4,Defeat,BO3
+469,Ashe,Defeat,2024-02-26,Top Esports vs FPX,meiko,LPL Spring 2024,29.566666666666666,0,6,2,Defeat,BO3
+470,Tahm Kench,Victory,2024-02-26,Top Esports vs FPX,meiko,LPL Spring 2024,29.866666666666667,1,2,16,Defeat,BO3
+471,Nami,Victory,2024-02-23,LNG Esports vs Top Esports,meiko,LPL Spring 2024,29.35,1,0,11,Victory,BO3
+472,Renata Glasc,Victory,2024-02-23,LNG Esports vs Top Esports,meiko,LPL Spring 2024,26.083333333333332,0,0,8,Victory,BO3
+473,Renata Glasc,Victory,2024-02-21,RNG vs Top Esports,meiko,LPL Spring 2024,23.45,0,2,16,Victory,BO3
+474,Maokai,Victory,2024-02-21,RNG vs Top Esports,meiko,LPL Spring 2024,36.166666666666664,0,1,8,Victory,BO3
+475,Ashe,Victory,2024-02-07,WBG vs Top Esports,meiko,LPL Spring 2024,37.583333333333336,0,4,9,Victory,BO3
+476,Ashe,Victory,2024-02-07,WBG vs Top Esports,meiko,LPL Spring 2024,23.533333333333335,1,4,17,Victory,BO3
+477,Tahm Kench,Victory,2024-02-03,Top Esports vs Rare Atom,meiko,LPL Spring 2024,22.55,3,0,13,Victory,BO3
+478,Nami,Victory,2024-02-03,Top Esports vs Rare Atom,meiko,LPL Spring 2024,29.3,1,0,12,Victory,BO3
+479,Nami,Victory,2024-01-27,Top Esports vs EDG,meiko,LPL Spring 2024,28.45,0,0,14,Victory,BO3
+480,Tahm Kench,Victory,2024-01-27,Top Esports vs EDG,meiko,LPL Spring 2024,28.833333333333332,1,0,11,Victory,BO3
+481,Soraka,Defeat,2024-01-22,BLG vs Top Esports,meiko,LPL Spring 2024,27.483333333333334,1,3,4,Defeat,BO3
+482,Renata Glasc,Victory,2024-01-22,BLG vs Top Esports,meiko,LPL Spring 2024,30.566666666666666,2,2,10,Defeat,BO3
+483,Nautilus,Defeat,2024-01-22,BLG vs Top Esports,meiko,LPL Spring 2024,27.05,1,4,2,Defeat,BO3
