@@ -372,14 +372,14 @@ def task_run_notebooks():
 #         "clean": True,
 #     }
 
-notebook_sphinx_pages = [
-    "./docs/notebooks/EX_" + notebook.split(".")[0] + ".html"
-    for notebook in notebook_tasks.keys()
-]
-sphinx_targets = [
-    "./docs/index.html",
-    *notebook_sphinx_pages,
-]
+# notebook_sphinx_pages = [
+#     "./docs/notebooks/EX_" + notebook.split(".")[0] + ".html"
+#     for notebook in notebook_tasks.keys()
+# ]
+# sphinx_targets = [
+#     "./docs/index.html",
+#     *notebook_sphinx_pages,
+# ]
 
 # def task_compile_sphinx_docs():
 #     """Compile Sphinx Docs"""
